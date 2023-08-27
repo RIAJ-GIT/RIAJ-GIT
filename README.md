@@ -1,21 +1,17 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm RIAJ IKBAL </h>
 <h3 align="center">¯\_(ツ)_/¯ 
 
-Programmer | Content Creator | Learner
+Programmer | Content Creator | Learner </h3>
 
-?></h3>
+- 🔭 I’m doing **Frontend-development**
 
-- 🔭 I’m currently working on **Android Development**
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **extran401@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
 [<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]

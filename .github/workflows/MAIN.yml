@@ -70,7 +70,7 @@ github action
   with
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: RIAJ-GIT
+    github_user_name: ${{ github.repository_owner }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
@@ -522,15 +522,15 @@ Reply
 View full discussion (38 comments)
 Code of Conduct • Report abuse
 profile
-Sentry
+AWS
 PROMOTED
 
-nextjs tutorial video
+Build On AWS Stream
 
-Youtube Tutorial Series
-So you built a Next.js app, but you need a clear view of the entire operation flow to be able to identify performance bottlenecks before you launch. But how do you get started? Get the essentials on tracing for Next.js from @nikolovlazar in this video series 👀
+Build On Live Weekly
+A weekly live stream about The Cloud, Open Source, Community and everything in between.
 
-Watch the Youtube series
+Join the conversation
 
 Read next
 digital_hub profile image

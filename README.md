@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **open-source**
 
-- 👨‍💻 All of my projects are available at [https://resume-nine-inky.vercel.app/](https://resume-nine-inky.vercel.app/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **REACT, vite, JS**
 
-- 📫 How to reach me **extra401@gmail.com**
+- 📫 How to reach me=
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
